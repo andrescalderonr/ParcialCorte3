@@ -10,4 +10,6 @@ https://parcial3corte-ane0hsf9dda7gbgb.canadacentral-01.azurewebsites.net
 
 ![image](assets/Despliegue%20en%20azure.png)
 
+Diagrama de clases:
 
+![image](assets/DiaGRAMAcLASES.png)
